@@ -10,8 +10,8 @@ CPU     | Octa-core (4x1.8 GHz Kryo 250 Gold & 4x1.8 GHz Kryo 250 Silver)
 Chipset | Qualcomm SDM632 Snapdragon 632 (14 nm)
 GPU     | Adreno 506
 Shipped Android Version | 8.1.0
-Memory | 64 GB, 4 GB RAM or 32 GB, 3 GB RAM
-MicroSD | microSD, up to 512 GB (dedicated slot)
+Memory | 3 GB RAM, 32 GB ROM or 4 GB RAM, 64 GB ROM
+MicroSD | microSD, up to 2 TB (dedicated slot)
 Battery | Non-removable Li-Ion 4000 mAh battery
 Display | 6.26 inches, 97.8 cm2 (~80.9% screen-to-body ratio)
 Rear Camera  | 13 MP, f/1.8, 1.12µm, PDAF
